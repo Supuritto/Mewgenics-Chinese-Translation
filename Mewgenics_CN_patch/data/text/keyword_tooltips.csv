@@ -86,7 +86,7 @@ KEYWORD_PROMOTE_DESC,The next familiar you spawn is upgraded into a [img:champio
 KEYWORD_PROMOTE2_NAME,Promote+,,Ascenso+,Promotion+,Beförderung+,Promozione+,Promover+,提升+
 KEYWORD_PROMOTE2_DESC,The next familiar you spawn is upgraded into an [img:elite] Elite.,,El siguiente familiar que se genera mejora a [img:elite] élite.,Le prochain familier que vous invoquez est promu au rang d'élite [img:champion].,"Der nächste Begleiter, den du rufst, wird zur [img:elite]&nbsp;Elite befördert.",Il prossimo famiglio che generi viene potenziato in un Élite [img:elite].,O próximo familiar que você gerar é aprimorado para um elite [img:elite].,"你召唤的下一个宠物将升级为[img:elite]精英。
 "
-KEYWORD_CHARGE_NAME,Charge,,Carga,Charge,Ladung,Carica,Carga,冲锋
+KEYWORD_CHARGE_NAME,Charge,,Carga,Charge,Ladung,Carica,Carga,充能
 KEYWORD_CHARGE_DESC,Gains {stacks} mana at the start of its next turn.,,Obtiene {stacks} de maná al inicio del siguiente turno.,Mana +{stacks} au début de son prochain tour.,Erhält am Anfang seines nächsten Zuges {stacks}&nbsp;Mana.,Ottiene {stacks} mana all'inizio del suo prossimo turno.,Obtém {stacks} de mana no início de seu turno.,在下回合开始时获得{stacks}点法力值。
 KEYWORD_CHARGE_DESC_STACKLESS,Gains mana at the start of its next turn.,,Obtiene maná al inicio del siguiente turno.,Gain de mana au début de son prochain tour.,Erhält am Anfang seines nächsten Zuges Mana.,Ottiene mana all'inizio del suo prossimo turno.,Obtém mana no início de seu turno.,在下回合开始时获得法力值。
 KEYWORD_CHARGEFISTS_NAME,Charge Fists,,Carga de puños,Poings étincelants,Fäuste nachladen,Pugni Carichi,Punhos Carregados,冲锋之拳
